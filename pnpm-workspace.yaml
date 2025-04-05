@@ -1,0 +1,7 @@
+packages:
+  - apps/*
+  - 'apps/frontend'
+  - 'apps/backend'
+  - packages/*
+onlyBuiltDependencies:
+  - sharp

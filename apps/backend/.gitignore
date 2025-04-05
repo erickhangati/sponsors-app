@@ -1,0 +1,14 @@
+# Python virtual environment
+.venv/
+
+# Node modules (if you use any JS packages in the backend)
+node_modules/
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# Database file (if it's not in a production environment)
+testdb.db

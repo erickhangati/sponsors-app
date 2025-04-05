@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+apps/frontend/node_modules/
+apps/backend/.venv/
+
+# IDEs
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+apps/frontend/.env.local
+apps/backend/.env
+
+# Package-lock or pnpm-lock
+pnpm-lock.yaml
